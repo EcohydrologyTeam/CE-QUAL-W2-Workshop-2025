@@ -28,7 +28,7 @@ This workshop is made possible through the support of the USACE Scientific and E
 - 1.04 Lecture: Water Temperature Modeling
 - 1.05 Lecture: Water Quality Modeling
 - 1.06 Lecture: Model Setup I
-- 1.06 Workshop: Model Setup I
+- 1.07 Workshop: Model Setup I
 - 1.08 Lecture: Model Grid
 - 1.09 Workshop: Model Grid
 - 1.10 Lecture: Model Output
@@ -41,8 +41,7 @@ This workshop is made possible through the support of the USACE Scientific and E
 - 2.04 Workshop: Water Temperature
 - 2.05 Lecture: Dissolved Oxygen
 - 2.06 Workshop: Dissolved Oxygen
-- 2.07 Lecture: Total Dissolved Gas
-- 2.08 Workshop: Total Dissolved Gas
-- 2.09 Lecture: Model Utilities
-- 2.10 Lecture: Calibration and Validation
-- 2.11 Workshop: Calibration and Validation
+- 2.07 Lecture: Model Utilities
+- 2.08 Lecture: Calibration and Validation
+- 2.09 Workshop: Calibration and Validation
+- 2.10 Lecture: Special Topics
